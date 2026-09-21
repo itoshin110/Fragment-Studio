@@ -1,8 +1,8 @@
-# Fragstudio — Beta 0.1.0-beta.1
+# Fragment Studio — Beta 0.1.0-beta.1
 
 画像から破片の境界を抽出し、人が修正して形や大きさを計測するツールです。日本語・英語に対応しています。
 
-![Fragstudio screenshot](./screenshot.png)
+![Fragment Studio screenshot](./screenshot.png)
 
 ## はじめに
 
@@ -61,7 +61,7 @@ CSV、破片の切り抜きPNG、境界付き全体画像、元画像に透過�
 
 ## English quick start
 
-Fragstudio extracts fragment boundaries from images and lets you edit them and measure fragment size and shape. The interface supports Japanese and English.
+Fragment Studio extracts fragment boundaries from images and lets you edit them and measure fragment size and shape. The interface supports Japanese and English.
 
 1. Download [Fragstudio-0.1.0-beta.1.html](./Fragstudio-0.1.0-beta.1.html). On GitHub, use **Download raw file**.
 2. Open the downloaded HTML in your browser. No installation or server is needed; the app and sample images are included.
