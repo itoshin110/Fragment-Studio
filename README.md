@@ -55,7 +55,7 @@ CSV、破片の切り抜きPNG、境界付き全体画像、元画像に透過�
 
 画像処理はブラウザー内で行い、画像を外部サーバーへ送信する機能はありません。言語設定はブラウザー内に保存されます。
 
-`.fragment` ファイルには元画像・画像名・編集内容が含まれます。公開したくないデータを含むプロジェクトはアップロードしないでください。
+`.fragment` ファイルには元画像・画像名・編集内容が含まれます。
 
 ---
 
@@ -76,6 +76,6 @@ Set a scale for physical units; otherwise measurements use pixels. Fragments tou
 
 This is a beta release. Review automatic boundaries and measurements. The app supports up to 80 megapixels, subject to available memory and image complexity. It requires Web Worker, OffscreenCanvas and createImageBitmap support. Windows has not been tested on a physical device. Undo history is limited, so save regularly.
 
-Images are processed locally, with no image upload to an external server. Project files contain the original image, image name and edits; do not publish private project files.
+Images are processed locally, with no image upload to an external server. Project files contain the original image, image name and edits.
 
 © 2026, Shin-ichi Ito
